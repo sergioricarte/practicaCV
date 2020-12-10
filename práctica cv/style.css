@@ -1,0 +1,83 @@
+h1.título{
+    text-align: center;
+
+}
+body{
+    background-color: rgb(211, 227, 228);}
+p.color1{
+        background-color: rgb(160, 173, 173);
+    }
+h2.color2{
+    background-color: rgb(131, 147, 163);
+}
+p.párrafo1{
+    background-color: rgb(160, 173, 173);
+}
+h2.título2{
+    background-color: rgb(131, 147, 163);
+}
+p.fechas{
+    background-color: rgb(160, 173, 173);
+}
+h2.color3{
+    background-color: rgb(131, 147, 163);
+}
+h3.color7{
+    background-color:rgb(171, 185, 199);
+}
+p.asignaturascolor{
+    background-color: rgb(160, 173, 173);
+}
+h3.color4{
+    background-color: rgb(188, 205, 223);
+}
+p.mclibre{
+   background-color:white;
+   text-align: center;
+}
+address.autor{
+    background-color: white;
+    margin-left: 600px;
+}
+p.frasederecha{
+    margin-left: 300px;
+}
+b.colorazul1{
+    color: rgba(9, 110, 149, 0.692);
+}
+b.colorazul2{
+    color: rgba(9, 110, 149, 0.692);
+}
+b.colorazul3{
+    color: rgba(9, 110, 149, 0.692);
+}
+b.colorazul4{
+    color: rgba(9, 110, 149, 0.692);
+}
+strong.color1{
+    color: rgba(10, 186, 209, 0.692);
+}
+strong.color2{
+    color: rgba(10, 186, 209, 0.692);
+}
+strong.color3{
+    color: rgba(10, 186, 209, 0.692);
+}
+strong.color4{
+    color: rgba(10, 186, 209, 0.692);
+}
+strong.color5{
+    color: rgba(10, 186, 209, 0.692);
+}
+strong.color6{
+    color: rgba(10, 186, 209, 0.692);
+}
+strong.color7{
+    color: rgba(10, 186, 209, 0.692);
+}
+strong.color8{
+    color: rgba(10, 186, 209, 0.692);
+}
+strong.color9{
+    color: rgba(10, 186, 209, 0.692);
+}
